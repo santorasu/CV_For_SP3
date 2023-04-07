@@ -2,13 +2,13 @@ body{
     /* margin: 15%;
     padding: 10%; */
     
-    padding-left: 10%;
+    padding-left: 5%;
     padding-top: 5%;
-    padding-right: 15%;
+    padding-right: 5%;
     padding-bottom: 5%;
-    background-color: rgb(196, 232, 191);
+    background-color: rgb(116, 189, 245);
     font-family: sans-serif;
-    border: 10px dashed white;
+    border: 3px dashed white;
 }
 img{
     float: right;
@@ -26,9 +26,9 @@ th.academic{
     /* height: 20px;
     width: 200px; */
     border: 2px solid black;
-    background-color: rgb(142, 240, 202);
+   /* background-color: rgb(172, 197, 206); */
     border-collapse: collapse;
 }
-h3,h4{
-    color: rgb(7, 106, 235);
+h2,h3,h4{
+    color: rgb(34, 30, 230);
 }
