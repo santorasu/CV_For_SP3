@@ -6,7 +6,7 @@ body{
     padding-top: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
-    background-color: rgb(116, 189, 245);
+    background-color: rgba(169, 194, 214, 0.587);
     font-family: sans-serif;
     border: 3px dashed white;
 }
